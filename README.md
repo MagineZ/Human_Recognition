@@ -1,1 +1,14 @@
-This is a git repo
+## Human Recognition with OpenCV
+
+The project is using OpenCV build-in libarary to ship a pre-trained HOG + Linear SVM model 
+that can be used to perform pedestrian detection in both images and video streams. 
+Main code is in the detect.py
+
+## Histogram of Oriented Gradient
+
+The histogram of oriented gradients (HOG) is a feature descriptor used in computer vision and image processing for the purpose of object detection. 
+The technique counts occurrences of gradient orientation in localized portions of an image. 
+
+##Detection Samples
+
+![example](https://github.com/MagineZ/Human_Recognition/blob/master/samples/sample_01.png)
